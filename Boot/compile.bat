@@ -1,1 +1,0 @@
-c:\nasm\nasm %1.asm -f bin -o %1.bin
